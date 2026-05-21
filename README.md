@@ -70,13 +70,13 @@ plt.axis('off')
 ## Output:
 
 ### Display the input Image
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/84d58b2e-c2dc-46ab-9987-e020b9b70ec0" />
+<img width="500" height="403" alt="image" src="https://github.com/user-attachments/assets/437ddbc3-1a6d-4f78-9d5e-7071f19184e3" />
 
 ### Display the result of Opening
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/27e5e86e-d9d7-4a47-881d-129e7f65bccf" />
+<img width="500" height="402" alt="image" src="https://github.com/user-attachments/assets/f3871e14-3abf-49bd-ad9c-a69816f9cac6" />
 
 ### Display the result of Closing
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/139dcdca-37fe-4a46-aeb9-b8066bda7cc4" />
+<img width="500" height="403" alt="image" src="https://github.com/user-attachments/assets/f56cf990-35d7-4805-adb9-ca8a0c493245" />
 
 
 ## Result
